@@ -1,0 +1,8 @@
+opencv-python-headless
+streamlit
+pygobject
+mediapipe
+cv2
+import math
+
+numpy
