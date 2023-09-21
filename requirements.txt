@@ -1,8 +1,12 @@
 opencv-python-headless
-streamlit
+pandas==1.3.3
+numpy==1.21.2
+streamlit==0.89.0
+
+
 pygobject
 mediapipe
 cv2
-import math
+math
 
-numpy
+
